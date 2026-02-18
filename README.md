@@ -1,0 +1,1 @@
+# plataforma-de-trazabilidad-e-inventario-con-IA
